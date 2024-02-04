@@ -79,4 +79,51 @@ export const options: TimeLineOptions[] = [
     },
     ytLinks: ["https://youtu.be/-GR52czEd-0?si=S4fFQMnOQM8Ei6s3"],
   },
+  {
+    key: "8",
+    details: "Focus on the relative and absolute position in css",
+    items: {
+      title: "CSS Positions",
+      description: "We're going to learn the position property in css",
+      status: "wait",
+    },
+    ytLinks: ["https://youtu.be/fF_NVrd1s14?si=e5tGe0OHVeuIOujD"],
+  },
+  {
+    key: "9",
+    details: "Focus on the block and inline and inline block",
+    items: {
+      title: "CSS Display",
+      description: "We're going to learn the display property in css",
+      status: "wait",
+    },
+    ytLinks: ["https://youtu.be/x_i2gga-sYg?si=nkyfYFcgvzStnj5G"],
+  },
+  {
+    key: "10",
+    details: "Focus on the width, max-width, min-width",
+    items: {
+      title: "CSS Width",
+      description: "We're going to learn the width property in css",
+      status: "wait",
+    },
+    ytLinks: [
+      "https://youtu.be/YjtunZW7jxw?si=xkvi_i6QteqPgczU",
+      "https://youtu.be/-st14lUQD3U?si=tZn60DlwxV7F6SlY",
+    ],
+  },
+  {
+    key: "12",
+    details: "Focus on the height, max-height, min-height",
+    items: {
+      title: "CSS height",
+      description: "We're going to learn the height property in css",
+      status: "wait",
+    },
+    ytLinks: [
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/min-height",
+      "https://developer.mozilla.org/en-US/docs/Web/CSS/max-height",
+      "https://youtu.be/SjYYfd7obug?si=jvJ7uKrl658vQbRH",
+    ],
+  },
 ];
